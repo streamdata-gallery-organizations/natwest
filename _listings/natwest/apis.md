@@ -10,10 +10,10 @@ description: National Westminster Bank, commonly known as NatWest, is a large re
   Holdings. NatWest Markets comprises its investment banking arm.
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/natwest-logo.png
 x-kinRank: "8"
-x-alexaRank: ""
+x-alexaRank: "0"
 tags: NatWest
-created: "2018-05-22"
-modified: "2018-05-22"
+created: "2018-06-20"
+modified: "2018-06-20"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/natwest/master/_listings/natwest/apis.md
 specificationVersion: "0.14"
 apis:
@@ -24,7 +24,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/natwest-logo.png
   humanURL: https://personal.natwest.com/personal.html
   baseURL: https://openapi.natwest.com/open-banking/v2.1//atms/
-  tags: ~
+  tags: ATMs
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-organizations/natwest/master/_listings/natwest/atms-get-postman.md
@@ -37,7 +37,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/natwest-logo.png
   humanURL: https://personal.natwest.com/personal.html
   baseURL: https://openapi.natwest.com/open-banking/v2.1//branches/
-  tags: ~
+  tags: Branches
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-organizations/natwest/master/_listings/natwest/branches-get-postman.md
@@ -50,7 +50,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/natwest-logo.png
   humanURL: https://personal.natwest.com/personal.html
   baseURL: https://openapi.natwest.com/open-banking/v2.1//personal-current-accounts/
-  tags: ~
+  tags: Current,Personal,Accounts
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-organizations/natwest/master/_listings/natwest/personalcurrentaccounts-get-postman.md
@@ -63,7 +63,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/natwest-logo.png
   humanURL: https://personal.natwest.com/personal.html
   baseURL: https://openapi.natwest.com/open-banking/v2.1//business-current-accounts/
-  tags: ~
+  tags: Current,Business,Accounts
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-organizations/natwest/master/_listings/natwest/businesscurrentaccounts-get-postman.md
@@ -76,7 +76,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/natwest-logo.png
   humanURL: https://personal.natwest.com/personal.html
   baseURL: https://openapi.natwest.com/open-banking/v2.1//unsecured-sme-loans/
-  tags: ~
+  tags: Unsecured,SME,Loans
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-organizations/natwest/master/_listings/natwest/unsecuredsmeloans-get-postman.md
@@ -89,7 +89,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/natwest-logo.png
   humanURL: https://personal.natwest.com/personal.html
   baseURL: https://openapi.natwest.com/open-banking/v2.1//commercial-credit-cards/
-  tags: ~
+  tags: Commercial,Credit,Cards
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-organizations/natwest/master/_listings/natwest/commercialcreditcards-get-postman.md
